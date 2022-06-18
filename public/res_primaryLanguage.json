@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Yajahira Velazquez, you can call me Yari. I am an army veteran with a background in policing, transportation management, and medicine. Currently I own a web design company, Digital Transformation Consulting and Solutions, where I offer services from web design to digital marketing. I started my company for two reasons, one, I love working with computers. Computers have given me the opportunity to unlock my creative side and critical thinking. I have always been a problem solver, working in tech, is solving one problem after the next. This is an area where I excel. More importantly, feel that tech is the way of the future and I want to be part of that.  The second reason is because, tech allows the possibility of working remotely. After I finished my contract with the army, I went to medical school in Dominican Republic. Unfortunately, my circumstances changed and I was unable to continue, but I decided to stay living here. Working remotely will also give me more time with my kids. 😊 😉 😎",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "The most expanded application I had the opportunity to create during a coding bootcamp. During this project, I had the opportunity to learn React. This application was designed to showcase the modal feature when the picture is clicked, the counter for the likes button, and the form to sort the beasts according to the number of horns.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/beasts/horned-beasts.png"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://react-beasts.netlify.app",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,67 +26,86 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "JASY Destinations",
+        "startDate": "2022",
+        "description": "This was a final group project for the first course in the coding bootcamp. Here we built an app that would take in info via a quiz and return a destination suggestion. In this app we were tasked with storing the responses to local storage and later retreiving them.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/jasy/jasy page.png"
         ],
-        "url": "https://github.com",
+        "url": "teamjasy.github.io/teamjasyproject/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "One of the first sites I built while in the coding bootcamp. I had to develop a front-end site for a ficticious cookie store. In this project I learned how to use Javascript to create a table that would update information randomly, and then later add a store to the table.",
+        "images": [
+          "images/portfolio/cookies/salmon page.png"
+        ],
+        "url": "firecracker80.github.io/cookie-stand/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Digital Transformation Consulting and Solutions",
+        "title": "CEO",
+        "years": "Septemeber 2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Builderall"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Builderall",
+          "Canva"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Army Reserve",
+        "title": "Preventive Medicine Specialist",
+        "years": "Jan 1998 - Jun 2015",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          ""
         ]
       }
     ]
